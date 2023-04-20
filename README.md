@@ -29,11 +29,12 @@ The main dataset contains demographic information and what financial services ar
 
  ##### 4. Data cleaning: 
 -Accesing dataset information :check columns, data shape
--Drop the Unique id, Find and deal with null/missing values, Check and align column datatypes, Find and deal with outliers, Find and deal with Anomalies 
- ##### 5. Univariate Anaysis
+-Drop the Unique id, Find and deal with null/missing values, Check and align column datatypes, Find and deal with outliers, Find and deal with Anomalies
+
+ ##### 5. Univariate analysis
 Mode, Median, mean, interquartile range, the standard deviation, variance, skewness, kurtosis, histogram, bar chart, box plot, frequency table, Recommendations
 
- ##### 6. Bivariate 
+ ##### 6. Bivariate analysis
 -scatter plots
 -line charts to determine the relationship between variables, describing the relationship between two quantitative variables, computing and interpreting the Pearson correlation coefficient.
 Provide recommendations for effectively performing bivariate analysis while working on the current problem.
