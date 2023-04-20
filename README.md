@@ -1,5 +1,4 @@
-# Moringa.CORE-week-2-Independent-project
-####  The experimental design taken. 
+### Moringa.CORE-week-2- Financial inclusion in East Africa
 
 #### Background to the study: 
   Financial Inclusion remains one of the main obstacles to economic and human development in Africa. For example, across Kenya, Rwanda, Tanzania, and Uganda only 9.1 million adults (or 13.9% of the adult population) have access to or use a commercial bank account.
@@ -23,18 +22,18 @@ Speific Objectives:
 -To determine which age has the most access to mobile phones Age with mobile phone but no bank account, highestAge with mobile phone and bank account.
 
 #### The experimental design taken:
-##### 1. Import the libraries.
-##### 2. Upload the datasets
-##### 3. Preview the data, read and explore the given dataset
+ ##### 1. Import the libraries.
+ ##### 2. Upload the datasets
+ ##### 3. Preview the data, read and explore the given dataset
 The main dataset contains demographic information and what financial services are used by individuals across East Africa. This data was extracted from various Finscope surveys ranging from 2016 to 2018, and more information about these surveys can be found here:  Dataset Files: Variable Definitions: http://bit.ly/VariableDefinitions [( http://bit.ly/VariableDefinitions)] Dataset: [(http://bit.ly/FinancialDataset)].
 
-##### 4. Data cleaning: 
+ ##### 4. Data cleaning: 
 -Accesing dataset information :check columns, data shape
 -Drop the Unique id, Find and deal with null/missing values, Check and align column datatypes, Find and deal with outliers, Find and deal with Anomalies 
-##### 5. Univariate Anaysis
+ ##### 5. Univariate Anaysis
 Mode, Median, mean, interquartile range, the standard deviation, variance, skewness, kurtosis, histogram, bar chart, box plot, frequency table, Recommendations
 
-##### 6. Bivariate 
+ ##### 6. Bivariate 
 -scatter plots
 -line charts to determine the relationship between variables, describing the relationship between two quantitative variables, computing and interpreting the Pearson correlation coefficient.
 Provide recommendations for effectively performing bivariate analysis while working on the current problem.
