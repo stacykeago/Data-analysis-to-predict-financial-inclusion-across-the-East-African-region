@@ -39,6 +39,7 @@ Mode, Median, mean, interquartile range, the standard deviation, variance, skewn
 Provide recommendations for effectively performing bivariate analysis while working on the current problem.
 
 ##### 7. Multivariate analysis 
+-Factor analysis, principal component analysis (PCA), and discriminant analysis
 -finding relationships between variables using multiple regression analysis
 -applying reduction techniques to the analysis.
 -provide recommendations for effectively performing univariate analysis.
