@@ -8,8 +8,9 @@
 The research problem is to figure out how we can predict which individuals are most likely to have or use a bank account. Your solution will help provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes.
 
 #### The metric for success
-###### Main Objective: How mobile money transactions can lead to greater financial inclusion for people who don't have access to banks.Greater financial inclusion leads to greater access to credit services, easier tax base to achieve revenues, better access to savings and fintech services.
-###### Specific Objectives: 
+##### Main Objective: 
+How mobile money transactions can lead to greater financial inclusion for people who don't have access to banks.Greater financial inclusion leads to greater access to credit services, easier tax base to achieve revenues, better access to savings and fintech services.
+##### Specific Objectives: 
 -To determine the number of people who have access to mobile phones and don't have access to the banks
 -To determine the percentage of level of access to mobile phones for people in the region.
 -To determine the percentage of level of access to mobile phones for people in urban areas and rural areas
